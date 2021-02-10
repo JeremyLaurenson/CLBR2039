@@ -6,7 +6,7 @@
 <?php
 
 // version 0.1 Feb 10 2021
-// We need a compliance account auth token to call the API with.
+// We need a compliance account auth token to call the API with. This is an example:
 $token=“MmYzMDc2NDAtNDY5Yi00NGRlLWI1MmItMTU2YWUwNTJjYjkzZmFhNzhhOTktNDk0_PF84_0e5507d4-6b47-4dc1-88a2-9be9d7136a1e”;
 
 
